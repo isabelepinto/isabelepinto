@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Isabele Pinto, I am 26 years old and I am a Brazilian RPA developer!
+- 👋 Hi, I’m Isabele Pinto, 27 years old and a Brazilian RPA developer!
 - 👀 I’m interested in watching series and movies, gardening, camping, trekking, and other outdoor activities, I also love to travel and meet new people and places xD
 - 🌱 I’m currently learning Machine Learning and Artificial intelligence features to apply while developing automation
-- 💼 I work as an RPA developer for about 3 years, using tools such as UiPath, IBM RPA, Power Automate, and Python \o/
+- 💼 I have worked as an RPA developer for about 3 years, using tools such as UiPath, IBM RPA, Power Automate, and Python \o/
 - 📫 You can reach me by email: isabelepfso@gmail.com or Instagram: @isabele_pinto :)
 - LinkedIn: https://www.linkedin.com/in/isabelepinto/
   
